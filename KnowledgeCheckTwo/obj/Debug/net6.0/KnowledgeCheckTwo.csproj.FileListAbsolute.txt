@@ -1,0 +1,15 @@
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\bin\Debug\net6.0\KnowledgeCheckTwo.exe
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\bin\Debug\net6.0\KnowledgeCheckTwo.deps.json
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\bin\Debug\net6.0\KnowledgeCheckTwo.runtimeconfig.json
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\bin\Debug\net6.0\KnowledgeCheckTwo.dll
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\bin\Debug\net6.0\KnowledgeCheckTwo.pdb
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.csproj.AssemblyReference.cache
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.AssemblyInfoInputs.cache
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.AssemblyInfo.cs
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.csproj.CoreCompileInputs.cache
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.dll
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\refint\KnowledgeCheckTwo.dll
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.pdb
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\KnowledgeCheckTwo.genruntimeconfig.cache
+C:\Users\downw\Desktop\projects\KnowledgeCheckTwo\KnowledgeCheckTwo\obj\Debug\net6.0\ref\KnowledgeCheckTwo.dll
